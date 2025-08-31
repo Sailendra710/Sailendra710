@@ -37,10 +37,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Sailendra710&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+        <!-- GitHub Streak Card -->
+        <img src="https://streak-stats.demolab.com?user=Sailendra710&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sailendra710&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+        <!-- Most Used Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sailendra710&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
       </td>
     </tr>
   </table>
