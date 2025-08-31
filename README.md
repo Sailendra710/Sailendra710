@@ -40,7 +40,7 @@
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sailendra710/Sailendra710/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  ![snake gif](https://github.com/Sailendra710/Sailendra710/blob/output/github-snake-dark.svg)
 </p>
 
 <p align="center">
@@ -59,6 +59,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-![snake gif](https://github.com/Sailendra710/Sailendra710/blob/output/github-snake-dark.svg)
