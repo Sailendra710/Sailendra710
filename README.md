@@ -40,7 +40,7 @@
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sailendra710/Sailendra710/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Sailendra710/Sailendra710/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ![snake gif](https://github.com/Sailendra710/Sailendra710/blob/output/github-snake-dark.svg)
