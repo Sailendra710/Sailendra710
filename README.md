@@ -1,5 +1,4 @@
 # 🦇 Sailendra Varma
-
 *Building ideas, one commit at a time.*
 
 ---
