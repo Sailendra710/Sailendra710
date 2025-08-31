@@ -3,13 +3,15 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 Student from India  
-- 💻 Exploring **C, Python, JavaScript**  
-- 📦 Working with **TensorFlow, NumPy, Pandas, Matplotlib, Scikit-Learn**  
-- 🛠 Tools: **Docker, Git, GitHub, VS Code**  
-- ☁️ Cloud: **AWS**  
-- 🎮 Gamer at heart — leveling up in code and in games.  
+## 🚀 About Me
+
+- 👨‍🚀 Journeying through code—mapping ideas into reality, pixel by pixel.
+- 🔬 Experimenter at heart: I brew projects with **C**, **Python**, and **JavaScript**—sometimes for fun, always for growth.
+- 🧠 I crave unsolved problems, open tabs, and those “aha!” moments after hours of debugging.
+- ⚒️ My toolkit? **Docker**, **Git**, **GitHub**, **VS Code**—but I believe resourcefulness is the ultimate tool.
+- 🦄 Obsessed with design and aesthetics: every interface should feel like magic, every project like a new universe.
+- 🎲 Gamer, strategist, and code-warrior—raising the difficulty level in games and life.
+- 🌟 Always open to collaboration, new friendships, and spontaneous hackathons—let’s build something legendary together!
 
 ---
 
