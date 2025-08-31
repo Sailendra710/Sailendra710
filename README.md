@@ -31,12 +31,21 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sailendra710&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sailendra710&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <!-- Streak/Stats Card -->
+      <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <!-- Most Used Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
