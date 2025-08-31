@@ -43,8 +43,6 @@
   <img src="https://raw.githubusercontent.com/Sailendra710/Sailendra710/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-![snake gif](https://github.com/Sailendra710/Sailendra710/blob/output/github-snake-dark.svg)
-
 <p align="center">
   <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/examples/3d-contribution.png" alt="3D Contribution Graph" />
 </p>
