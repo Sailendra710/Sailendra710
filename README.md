@@ -3,15 +3,15 @@
 
 ---
 
-## 🚀 About Me
+## 🤖 About Me
 
-- 👨‍🚀 Journeying through code—mapping ideas into reality, pixel by pixel.
-- 🔬 Experimenter at heart: I brew projects with **C**, **Python**, and **JavaScript**—sometimes for fun, always for growth.
-- 🧠 I crave unsolved problems, open tabs, and those “aha!” moments after hours of debugging.
-- ⚒️ My toolkit? **Docker**, **Git**, **GitHub**, **VS Code**—but I believe resourcefulness is the ultimate tool.
-- 🦄 Obsessed with design and aesthetics: every interface should feel like magic, every project like a new universe.
-- 🎲 Gamer, strategist, and code-warrior—raising the difficulty level in games and life.
-- 🌟 Always open to collaboration, new friendships, and spontaneous hackathons—let’s build something legendary together!
+- 👨‍🎓 AI/ML enthusiast passionate about teaching machines to learn, think, and create.
+- 🚀 Exploring the realms of **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** using tools like **Python**, **TensorFlow**, and **Scikit-Learn**.
+- 🧠 Constantly fascinated by data — transforming raw numbers into meaningful insights and smart solutions.
+- 🔧 Building models, experimenting with algorithms, and fine-tuning hyperparameters to push boundaries.
+- 🌐 Interested in deploying intelligent systems to the cloud using **Docker** and **AWS**.
+- 🎮 In my free time, I game and sharpen my problem-solving skills—because AI needs creativity too!
+- 🌟 Always keen on collaborating and learning — let’s shape the future of intelligent tech together!
 
 ---
 
